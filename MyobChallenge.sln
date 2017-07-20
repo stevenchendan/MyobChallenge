@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{583692BA-8BC0-46FC-89D5-998E8E29502B}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		readme.md = readme.md
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MyobChallenge", "src\MyobChallenge\MyobChallenge.xproj", "{AC3B8412-A6CB-4D50-94AE-6D46A58058EC}"
