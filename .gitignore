@@ -1,0 +1,8 @@
+/src/**/obj
+/src/**/bin
+/src/MyobChallenge/outputs.csv
+/src/**/project.lock.json
+/src/**/*.xproj.user
+/.vs
+/src/MyobChallenge.Tests/TestResult.xml
+/src/MyobChallenge/Properties/launchSettings.json
